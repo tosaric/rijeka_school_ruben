@@ -2,6 +2,7 @@
 
 Follow: https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2017-02_Heidelberg.md
 
+[Timetable](https://github.com/rlopezcoto/intro-iact-analysis//timetable.md)
 
 Introduction
 - VHE gamma-ray astronomy
