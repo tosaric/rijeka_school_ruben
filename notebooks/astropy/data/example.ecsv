@@ -1,0 +1,11 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: Source_Name, datatype: string}
+# - {name: GLON, unit: deg, datatype: float64}
+# - {name: GLAT, unit: deg, datatype: float64}
+# schema: astropy-2.0
+Source_Name GLON GLAT
+Crab 184.55754381 -5.78427369
+"Sag A*" 0.0 0.0
+"Cas A" 111.74169477 -2.13544151
