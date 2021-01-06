@@ -1,4 +1,4 @@
-Introduction to Scientific Python
+# Introduction to Scientific Python
 
 Info from several workshops/presentations.
 
