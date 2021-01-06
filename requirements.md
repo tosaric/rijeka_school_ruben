@@ -1,17 +1,14 @@
 You *must* have a Github account to access this repo.
 
-# If you have problems:
+# What you need
 
+To prepare for Day 1, please do the following steps:
 
-## What you need
+1. Install general software (Before Day 1)
+2. Install CTA-specific software (Before Day 2)
+3. Download materials (Before Day 3)
 
-To prepare for day 1, please do the following two steps:
-
-1. Install general software
-1.1 Install CTA-specific software
-2. Download materials
-
-### 1. Install software
+## 1. Install software
 
 Please come with your computer and software already installed. If you have problems, do not hesitate to write before the start of the lessons.
 In any case, we will have a one-hour final setup the first day.
@@ -37,12 +34,15 @@ You can find instructions how to do the installation and how to start Python and
 * Section 1 ("Introduction", install section at the bottom) and 2 ("How to run Python code") from ["A Whirlwind Tour of Python"](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
 * More information for IPython (how to start and execute notebooks) is available in Chapter 1 of the ["Python Data Science Handbook"](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)~
 
+* Basic knowledge of python is necessary for the start of the course, here there are a good list of notebooks and the Python Data Science Handbook:
+   * https://github.com/jakevdp/WhirlwindTourOfPython
+   * https://github.com/jakevdp/PythonDataScienceHandbook
 
-### 1.1 Install CTA-specific software
+## 2. Install CTA-specific software
 For the purposes of the lessons, we will need [ctapipe](https://github.com/cta-observatory/ctapipe), [cta-lstchain](https://github.com/cta-observatory/cta-lstchain), [gammapy](https://github.com/gammapy/gammapy) and all the auxiliary software coming with them.
 
 You can create a conda environment and install all the needed LST-specific software and its dependencies by following the instrunctions of cta-lstchain [installation](https://github.com/cta-observatory/cta-lstchain#as-user)
 
 
-2. Download materials
+## 3. Download materials:
 All attendees should be LST members to be able to access LST data. Data can be downloaded by accessing http://data.lstcam.pic.es/ using your personal credentials.
