@@ -1,9 +1,6 @@
 You *must* have a Github account to access this repo.
 
-# If you have problems:
-
-
-## What you need
+# What you need
 
 To prepare for Day 1, please do the following steps:
 
@@ -11,7 +8,7 @@ To prepare for Day 1, please do the following steps:
 2. Install CTA-specific software (Before Day 2)
 3. Download materials (Before Day 3)
 
-### 1. Install software
+## 1. Install software
 
 Please come with your computer and software already installed. If you have problems, do not hesitate to write before the start of the lessons.
 In any case, we will have a one-hour final setup the first day.
@@ -41,11 +38,11 @@ You can find instructions how to do the installation and how to start Python and
    * https://github.com/jakevdp/WhirlwindTourOfPython
    * https://github.com/jakevdp/PythonDataScienceHandbook
 
-### 2. Install CTA-specific software
+## 2. Install CTA-specific software
 For the purposes of the lessons, we will need [ctapipe](https://github.com/cta-observatory/ctapipe), [cta-lstchain](https://github.com/cta-observatory/cta-lstchain), [gammapy](https://github.com/gammapy/gammapy) and all the auxiliary software coming with them.
 
 You can create a conda environment and install all the needed LST-specific software and its dependencies by following the instrunctions of cta-lstchain [installation](https://github.com/cta-observatory/cta-lstchain#as-user)
 
 
-### 3. Download materials:
+## 3. Download materials:
 All attendees should be LST members to be able to access LST data. Data can be downloaded by accessing http://data.lstcam.pic.es/ using your personal credentials.
