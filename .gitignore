@@ -1,3 +1,6 @@
+**/material
+**/solutions
+
 .pytest_cache
 _version_cache.py
 
@@ -82,5 +85,3 @@ target
 .mypy_cache
 
 
-**/material
-**/solutions
