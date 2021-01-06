@@ -8,10 +8,15 @@
 * Start: **Monday, Feb 15, 2021 at 9:00 CET**
 * End: **Friday, Feb 19, 2021 at 17:00 CET**
 
+[Preliminary Timetable](https://github.com/rlopezcoto/intro-iact-analysis/blob/main/timetable.md)
+
+# Contact
+[Ruben Lopez-Coto](https://github.com/rlopezcoto)
+
+
+Follow script from:
 
 Follow: https://github.com/gammapy/gammapy-meetings/blob/master/coding-sprints/2017-02_Heidelberg.md
-
-[Preliminary Timetable](https://github.com/rlopezcoto/intro-iact-analysis/blob/main/timetable.md)
 
 Introduction
 - VHE gamma-ray astronomy
