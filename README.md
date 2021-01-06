@@ -8,8 +8,8 @@
 * Start: **Monday, Feb 15, 2021 at 9:00 CET**
 * End: **Friday, Feb 19, 2021 at 17:00 CET**
 
-## Requirements
-[Pre-requisites](https://github.com/rlopezcoto/intro-iact-analysis/blob/main/requirements.md) to read **before** starting the workshop
+## Before starting
+[Pre-requisites](https://github.com/rlopezcoto/intro-iact-analysis/blob/main/requirements.md) to read **before** starting the lessons
 
 ## Schedule
 
