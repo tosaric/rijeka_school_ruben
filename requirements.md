@@ -2,11 +2,15 @@ You *must* have a Github account to access this repo.
 
 # What you need
 
-To prepare for Day 1, please do the following steps:
+To prepare for the lessons, please do the following steps:
 
 1. Install general software (Before Day 1)
 2. Install CTA-specific software (Before Day 2)
 3. Download materials (Before Day 3)
+
+## 0. Pre-requirements
+To have a look at this is not compulsory but very much recommended.
+[Introduction to Python for Scientists](http://astrofrog.github.io/py4sci/)
 
 ## 1. Install software
 
