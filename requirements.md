@@ -1,4 +1,5 @@
 You *must* have a Github account to access this repo.
+You *must* be a LST member to access this repo.
 
 # What you need
 
