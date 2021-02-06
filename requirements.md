@@ -48,8 +48,8 @@ For the purposes of the lessons, we will need [ctapipe](https://github.com/cta-o
 
 You can create a conda environment and install all the needed LST-specific software and its dependencies by following the instrunctions of cta-lstchain [installation](https://github.com/cta-observatory/cta-lstchain#as-user)
 
-
-## 3. There is an IT cluster in LP that allows to access data and run analysis on site, it is powerful and can be used for LST and CTA members. It is wise to have access to data there.
+## 3. Access to LST Data
+There is an IT cluster in LP that allows to access data and run analysis on site, it is powerful and can be used for LST and CTA members. It is wise to have access to data there.
 Obtain an LDAP account
 Send a request to Daniela Hadasch (hadasch@icrr.u-tokyo.ac.jp) to be included in the "ctan-onsite-it" group. 
  
@@ -77,5 +77,5 @@ https://ctaoobservatory.sharepoint.com/sites/ctan-onsite-it/Shared%20Documents/F
 After you have logged in for the first time your home directory with a quota of 10GB will be automatically created:
 /fefs/home/firstname.lastname
 
-## 4. Download materials:
+### 3.1 Download materials:
 All attendees should be LST members to be able to access LST data. Data can be downloaded by accessing http://data.lstcam.pic.es/ using your personal credentials.
