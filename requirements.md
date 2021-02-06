@@ -57,22 +57,27 @@ Send a request to Daniela Hadasch (hadasch@icrr.u-tokyo.ac.jp) to be included in
 Afterwards you will receive an e-mail from Microsoft Online Services Team. Follow the instructions in the e-mail. Once you logged in with the temporary password, you have to set your own password. 
  
 Your LDAP account looks like this:
+
 user name: firstname.lastname
+
 password: <the password you just set>
  
-with an associated e-mail address firstname.lastname@cta-observatory.org. E-mails to this new e-mail address are automatically forwarded to your currently registered e-mail in CTA.
+with an associated e-mail address firstname.lastname@cta-observatory.org. 
  
-Log in to the IT center
+#### Log in to the IT center
 Follow the 2-step authentication system:
  
-0.) You need to have a registered secure IP in your institute. In Padova it is the gate machine: ssh username@gate.pd.infn.it
+0.) You need to have a registered secure IP in your institute. It is recommended that you have a central server at your institute that acts as a gate, but you can also access the IT center through PIC (username@mic.magic.pic.es)
+
 1.) You login with the general user CtAlAPaLmA to a general login server. The system automatically redirects you to server login01 or login02:
+
 `$ ssh -l CtAlAPaLmA 161.72.87.1`
  
 The password for this account can be found here:
 https://ctaoobservatory.sharepoint.com/sites/ctan-onsite-it/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fctan%2Donsite%2Dit%2FShared%20Documents%2FGeneral%2Finformation%2Ejpg&parent=%2Fsites%2Fctan%2Donsite%2Dit%2FShared%20Documents%2FGeneral
  
 2.) From one of the login servers you can now login with your LDAP account either to cp01 or cp02. Special telescope accounts can login to the telescope servers tcs01-07. 
+
 `$ ssh -l firstname.lastname cp01/cp02`
  
 After you have logged in for the first time your home directory with a quota of 10GB will be automatically created:
