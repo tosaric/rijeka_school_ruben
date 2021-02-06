@@ -60,7 +60,7 @@ password: <the password you just set>
  
 with an associated e-mail address firstname.lastname@cta-observatory.org. E-mails to this new e-mail address are automatically forwarded to your currently registered e-mail in CTA.
  
-Login to the IT center
+Log in to the IT center
 Follow the 2-step authentication system:
  
 0.) You need to have a registered secure IP in your institute. In Padova it is the gate machine: ssh username@gate.pd.infn.it
