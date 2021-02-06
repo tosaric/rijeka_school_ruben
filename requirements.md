@@ -9,13 +9,14 @@ To prepare for the lessons, please do the following steps:
 3. Download materials (Before Day 3)
 
 ## 0. Pre-requirements
-To have a look at this is not compulsory but very much recommended.
+To have a look at this is not compulsory but very much recommended:
+
 [Introduction to Python for Scientists](http://astrofrog.github.io/py4sci/)
 
 ## 1. Install software
 
 Please come with your computer and software already installed. If you have problems, do not hesitate to write before the start of the lessons.
-In any case, we will have a one-hour final setup the first day.
+In any case, we will have a setup session the first day to solve problems with the installations.
 
 We recommend you install Anaconda from https://www.anaconda.com/ 
 
