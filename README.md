@@ -4,7 +4,7 @@
 
 * What: LST Data Analysis course
 * Framework: Experimental Methods in Astroparticle Physics - Doctoral Study in Physics - University of Rijeka
-* Location: Online 
+* Location: Online. Zoom link: https://infn-it.zoom.us/my/rlopezcoto
 * Start: **Monday, Feb 15, 2021 at 9:00 CET**
 * End: **Friday, Feb 19, 2021 at 17:00 CET**
 
