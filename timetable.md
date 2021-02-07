@@ -1,7 +1,7 @@
 | | Monday  | Tuesday | Wednesday  | Thursday  | Friday  |
 |---|---|---|---|---|---|
 | 09:00 - 10:00  | Setup  | CTA software and dependencies  | LST analysis - intro | Standard MC processing  | Special analyses: Src dependent  |
-| 10:00 - 11:00  | Setup  |  astropy |  lstchain | Standard MC processing  |  Special analyses: Src dependent |
+| 10:00 - 11:00  | Setup  |  astropy |  lstchain - LST Data | Standard MC processing  |  Special analyses: Src dependent |
 | 11:00 - 12:00  | LST Analysis call  | ctapipe - Presentation |  LST calibration | Real data analysis  | Special analyses: Pulsar  |
 | 12:00 - 13:00  | LST Analysis call  | ctapipe  - notebooks |  LST calibration | Real data analysis  | Special analyses: Pulsar  |
 | 13:00 - 14:00   | Lunch | Lunch | Lunch | Lunch | Lunch |
