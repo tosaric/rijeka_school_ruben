@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|
 | 09:00 - 10:00  | Setup  | astropy  | LST analysis - intro | Standard MC processing  | Special analyses: Src dependent  |
 | 10:00 - 11:00  | Setup  |  CTA software and dependencies |  lstchain - LST Data | Standard MC processing  |  Special analyses: Src dependent |
-| 11:00 - 12:00  | LST Analysis call  | ctapipe - Presentation |  LST calibration | Real data analysis  | Git Contributions  |
+| 11:00 - 12:00  | LST Analysis call  | ctapipe - Presentation |  LST calibration | Real data analysis  | Other analyses  |
 | 12:00 - 13:00  | LST Analysis call  | ctapipe  - notebooks |  LST calibration | Real data analysis  | Git Contributions  |
 | 13:00 - 14:00   | Lunch | Lunch | Lunch | Lunch | Lunch |
 | 14:00 - 15:00   | Lunch |  Exercises | Exercises  | Exercises  | Exercises  |
