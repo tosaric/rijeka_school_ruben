@@ -83,5 +83,19 @@ https://ctaoobservatory.sharepoint.com/sites/ctan-onsite-it/Shared%20Documents/F
 After you have logged in for the first time your home directory with a quota of 10GB will be automatically created:
 /fefs/home/firstname.lastname
 
-### 3.1 Download materials:
+### 3.1 Setup of the IT cluster environment for the lessons
+You will need a n up to date lstchain installation. You can either install anaconda and lstchain yourself, or add these lines to your .bashrc:
+
+`export PATH="/home/ruben.lopez/anaconda3/bin:$PATH"`
+
+then type:
+
+`conda init`
+
+and the configuration should be added to your bashrc. The conda environment is called `lst-dev`, therefore to activate it, every time you log in, you should type:
+
+`conda activate lst-dev`
+
+
+### 3.2 Download materials:
 All attendees should be LST members to be able to access LST data. Data can be downloaded by accessing http://data.lstcam.pic.es/ using your personal credentials.
