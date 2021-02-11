@@ -2,6 +2,8 @@
 
 * Scientific python, astropy, and git info taken from: 
 https://github.com/Asterics2020-Obelics/School2019
+(PyGamma19)[https://indico.cern.ch/event/783425/]
+
 
 * ctapipe: from official CTA presentations
 
