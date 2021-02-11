@@ -64,12 +64,6 @@ password: <the password you just set>
  
 with an associated e-mail address firstname.lastname@cta-observatory.org. 
 
-#### Troubleshooting
-LST data at PIC is located in:
-http://data.lstcam.pic.es/
-
-it may be that when you got the aforementioned account, you still cannot access the link where data is stored at PIC. You need to be added to the `1584(lst)` group of the IT center.  
- 
 #### Log in to the IT center
 Follow the 2-step authentication system:
  
@@ -103,6 +97,11 @@ and the configuration should be added to your bashrc. The conda environment is c
 
 `conda activate lst-dev`
 
-
 ### 3.2 Download materials:
 All attendees should be LST members to be able to access LST data. Data can be downloaded by accessing http://data.lstcam.pic.es/ using your personal credentials.
+
+#### Troubleshooting
+LST data at PIC is located in:
+http://data.lstcam.pic.es/
+
+it may be that when you got the aforementioned account, you still cannot access the link where data is stored at PIC. You need to be added to the `1584(lst)` group of the IT center. Please write Daniel Mazin (mazin@icrr.u-tokyo.ac.jp).
