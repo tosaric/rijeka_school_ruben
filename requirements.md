@@ -49,10 +49,10 @@ For the purposes of the lessons, we will need [ctapipe](https://github.com/cta-o
 
 You can create a conda environment and install all the needed LST-specific software and its dependencies by following the instrunctions of cta-lstchain [installation](https://github.com/cta-observatory/cta-lstchain#as-user)
 
-## 3. Access to LST Data
+## 3. Access to the La Palma IT Cluster and LST Data
 There is an IT cluster in LP that allows to access data and run analysis on site, it is powerful and can be used for LST and CTA members. It is wise to have access to data there.
 Obtain an LDAP account
-Send a request to Daniela Hadasch (hadasch@icrr.u-tokyo.ac.jp) to be included in the "ctan-onsite-it" group. 
+Send a request to Daniela Hadasch (hadasch@icrr.u-tokyo.ac.jp) to be included in the "ctan-onsite-it" group and the `lst` group (to access LST data at PIC).
  
 Afterwards you will receive an e-mail from Microsoft Online Services Team. Follow the instructions in the e-mail. Once you logged in with the temporary password, you have to set your own password. 
  
@@ -63,6 +63,12 @@ user name: firstname.lastname
 password: <the password you just set>
  
 with an associated e-mail address firstname.lastname@cta-observatory.org. 
+
+#### Troubleshooting
+LST data at PIC is located in:
+http://data.lstcam.pic.es/
+
+it may be that when you got the aforementioned account, you still cannot access the link where data is stored at PIC. You need to be added to the `1584(lst)` group of the IT center.  
  
 #### Log in to the IT center
 Follow the 2-step authentication system:
@@ -82,6 +88,7 @@ https://ctaoobservatory.sharepoint.com/sites/ctan-onsite-it/Shared%20Documents/F
  
 After you have logged in for the first time your home directory with a quota of 10GB will be automatically created:
 /fefs/home/firstname.lastname
+
 
 ### 3.1 Setup of the IT cluster environment for the lessons
 You will need a n up to date lstchain installation. You can either install anaconda and lstchain yourself, or add these lines to your .bashrc:
