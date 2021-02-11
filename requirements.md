@@ -7,7 +7,7 @@ To prepare for the lessons, please do the following steps:
 
 1. Install general software (Before Day 1)
 2. Install CTA-specific software (Before Day 2)
-3. Download materials (Before Day 3)
+3. 3. Access to the La Palma IT Cluster and LST Data (Before Day 3)
 
 ## 0. Pre-requirements
 To have a look at this is not compulsory but very much recommended:
