@@ -38,7 +38,7 @@ Try to execute `print('hello world')` from three places:
 You can find instructions how to do the installation and how to start Python and IPython and execute your first Python code here:
 
 * Section 1 ("Introduction", install section at the bottom) and 2 ("How to run Python code") from ["A Whirlwind Tour of Python"](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
-* More information for IPython (how to start and execute notebooks) is available in Chapter 1 of the ["Python Data Science Handbook"](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)~
+* More information for IPython (how to start and execute notebooks) is available in Chapter 1 of the ["Python Data Science Handbook"](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
 * Basic knowledge of python is necessary for the start of the course, here there are a good list of notebooks and the Python Data Science Handbook:
    * https://github.com/jakevdp/WhirlwindTourOfPython
