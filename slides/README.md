@@ -1,6 +1,7 @@
 # Slides for the different exercises
 
 * Scientific python, astropy, and git info taken from: 
+
 [Asterics-Obelics 2019 School](https://github.com/Asterics2020-Obelics/School2019)
 
 [PyGamma19](https://indico.cern.ch/event/783425/)
